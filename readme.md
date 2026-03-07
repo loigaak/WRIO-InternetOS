@@ -1,4 +1,4 @@
-#WRIO – Workflow Automation Platform
+# WRIO – Workflow Automation Platform
 
 > **Status:** This is a DRAFT for updating `github.com/webRunes/WRIO-InternetOS/README.md`
 > **Goal:** Remove ICO/Crypto references, rebrand as "Workflow Automation Platform"
